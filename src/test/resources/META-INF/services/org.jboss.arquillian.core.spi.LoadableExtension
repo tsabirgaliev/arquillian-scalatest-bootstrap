@@ -1,0 +1,2 @@
+org.jboss.arquillian.protocol.servlet.ServletExtensionExt
+org.jboss.arquillian.scalatest.container.ScalatestContainerExtension

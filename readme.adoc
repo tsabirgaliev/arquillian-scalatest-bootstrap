@@ -1,0 +1,9 @@
+= Arquillian ScalaTest bootstrap project
+
+== How to run
+
+[source,bash]
+....
+$ JBOSS_HOME=/opt/jboss-eap-6.2 mvn scala:run -DmainClass=com.example.HelloScalatest
+....
+
